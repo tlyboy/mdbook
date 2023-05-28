@@ -1,0 +1,11 @@
+[book]
+authors = ["Guany"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "starter"
+
+[output.html]
+git-repository-url = "https://github.com/tlyboy/starter"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/tlyboy/starter/edit/main/{path}"
