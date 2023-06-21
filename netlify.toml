@@ -3,4 +3,4 @@
 
 [build]
   publish = "book"
-  command = "mkdir bin && curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.29/mdbook-v0.4.29-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin && bin/mdbook build"
+  command = "mkdir bin && curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.30/mdbook-v0.4.29-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=bin && bin/mdbook build"
